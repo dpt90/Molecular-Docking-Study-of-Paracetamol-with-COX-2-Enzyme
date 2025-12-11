@@ -89,7 +89,7 @@ All software is freely available for academic use.
 
 
 
-   * Interaction residue list
+   * Interaction residue list ( Residues within 4 Å of the ligand )
      [U#0 GLY 225.A O
 #0 GLY 227.A C
 #0 GLY 227.A CA
@@ -200,27 +200,9 @@ Key interactions identified:
 
 * Hydrogen bonds between paracetamol and active‑site residues
 * Hydrophobic contacts stabilizing the ligand
-* Aromatic (pi–pi) interactions (if observed)
 
-### **5.3 Binding Pocket Residues**
 
-Residues within 4 Å of the ligand (examples; replace with your output):
 
-* ARG120
-* TYR355
-* VAL349
-* ALA527
-
-### **5.4 Visualization Outputs**
-
-Included outputs:
-
-* Docked complex (protein + ligand) image
-* Hydrogen bond interaction map
-* Final combined PDB file
-* 2D interaction diagram (if generated)
-
----
 
 ## **6. Discussion**
 
@@ -245,15 +227,7 @@ git clone <your-repo-url>
 cd docking-paracetamol-cox2
 ```
 
-Ensure the following files are included:
 
-* `paracetamol.mol2`
-* `cleaned_5ikr.pdb`
-* `best_pose.pdb`
-* `protein_ligand_complex.pdb`
-* `results/` (images, interaction maps, CSV docking output)
-
----
 
 ## **9. References**
 
@@ -264,15 +238,4 @@ Ensure the following files are included:
 
 ---
 
-### **Author**
-
-*Your Name Here*
-
-If you want, I can also generate:
-
-* A short abstract
-* A GitHub repository folder structure
-* Image captions and figure numbering
-* A PDF‑formatted report
-
-Just let me know what you want to add.
+[Binding_Site_Residues.txt](https://github.com/user-attachments/files/24106798/Binding_Site_Residues.txt)[PyRx_docking _file.csv](https://github.com/user-attachments/files/24106745/PyRx_docking._file.csv)
