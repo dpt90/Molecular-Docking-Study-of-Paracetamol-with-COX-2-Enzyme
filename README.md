@@ -1,4 +1,4 @@
-[Binding_Site_Residues.txt](https://github.com/user-attachments/files/24106798/Binding_Site_Residues.txt)[PyRx_docking _file.csv](https://github.com/user-attachments/files/24106745/PyRx_docking._file.csv)# Molecular-Docking-Study-of-Paracetamol-with-COX-2-Enzyme
+**Molecular-Docking-Study-of-Paracetamol-with-COX-2-Enzyme**
 
 
 ## **1. Introduction**
