@@ -50,6 +50,10 @@ All software is freely available for academic use.
 ### **4.2 Protein Preparation (COX‑2: PDB 5IKR)**
 
 1. Protein downloaded from **RCSB Protein Data Bank**.
+
+<img width="1130" height="421" alt="snapshot" src="https://github.com/user-attachments/assets/a44aef3b-145f-4d03-8141-8b264b2cd622" />
+
+   
 2. Loaded in **Chimera** for cleaning:
 
    * Removed: water molecules, ions, unwanted ligand fragments.
